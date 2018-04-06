@@ -2,32 +2,18 @@
   "basics": {
     "name": "Eugene Velizhenkov",
     "label": "iOS developer",
-    "picture": "",
+    "picture": "profile.png",
     "email": "tredasaibot@gmail.com",
     "phone": "+380 99 545 16 74",
-    "website": "http://richardhendricks.com",
     "summary": "I'm a passionate engineer and love technology, striving for self-development and excellence. Volunteer and proactive person. Electric guitar nerd & music snob.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Ivano-Frankivsk",
+      "countryCode": "UA"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "evil_metal_god",
-        "url": "https://twitter.com/evil_metal_god"
-      },
-      {
-        "network": "SoundCloud",
-        "username": "tapkain",
-        "url": "https://soundcloud.com/tapkain"
-      },
-      {
         "network": "Facebook",
-        "username": "",
+        "username": "Profile",
         "url": "https://www.facebook.com/profile.php?id=100008160858483"
       },
       {
@@ -37,7 +23,7 @@
       },
       {
         "network": "Linkedin",
-        "username": "",
+        "username": "Profile",
         "url": "https://www.linkedin.com/in/eugene-velizhenkov-4227abb9/"
       },
       {
@@ -56,9 +42,11 @@
       "endDate": "2018-06-23",
       "summary": "ELEKS' team of 1,100+ professionals located in the delivery centers across Eastern Europe and sales offices in Europe, the US and Japan, provides our clients with a full range of software engineering and consultancy services. ",
       "highlights": [
-        "Developed .NET service for probabation period",
+        "Developed .NET backend with WebApi and MVC",
         "Developing & maintaining mobile application written in C++",
-        "Developing & maintaining iOS application"
+        "Developing & maintaining iOS application",
+        "Migrated iOS app from Objective-C to Swift",
+        "Improved app infrastructure using fastlane and jenkins"
       ]
     }
   ],
@@ -94,7 +82,16 @@
         "Objective-C",
         "iOS SDK",
         "UIKit",
-        "Design"
+        "Design",
+        "fastlane"
+      ]
+    },
+    {
+      "name": "C++ Developer",
+      "level": "Intermediate",
+      "keywords": [
+        "C++ 11",
+        "C"
       ]
     },
     {
@@ -104,14 +101,6 @@
         ".NET Core",
         "MVC",
         "WebApi"
-      ]
-    },
-    {
-      "name": "C++ Developer",
-      "level": "Intermediate",
-      "keywords": [
-        "C++ 11",
-        "C"
       ]
     },
     {
@@ -140,10 +129,6 @@
     {
       "language": "German",
       "fluency": "Advanced"
-    },
-    {
-      "language": "Polish",
-      "fluency": "Beginner"
     }
   ],
   "interests": [
@@ -160,6 +145,14 @@
         "Electric Guitar",
         "Rock",
         "Metal"
+      ]
+    },
+    {
+      "name": "Travel",
+      "keywords": [
+        "Mountains",
+        "People",
+        "Food"
       ]
     }
   ]
