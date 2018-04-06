@@ -1,0 +1,161 @@
+{
+  "basics": {
+    "name": "Eugene Velizhenkov",
+    "label": "iOS developer",
+    "picture": "",
+    "email": "tredasaibot@gmail.com",
+    "phone": "+380 99 545 16 74",
+    "website": "http://richardhendricks.com",
+    "summary": "I'm a passionate engineer and love technology, striving for self-development and excellence. Volunteer and proactive person. Electric guitar nerd & music snob.",
+    "location": {
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "evil_metal_god",
+        "url": "https://twitter.com/evil_metal_god"
+      },
+      {
+        "network": "SoundCloud",
+        "username": "tapkain",
+        "url": "https://soundcloud.com/tapkain"
+      },
+      {
+        "network": "Facebook",
+        "username": "",
+        "url": "https://www.facebook.com/profile.php?id=100008160858483"
+      },
+      {
+        "network": "Telegram",
+        "username": "tapkain",
+        "url": ""
+      },
+      {
+        "network": "Linkedin",
+        "username": "",
+        "url": "https://www.linkedin.com/in/eugene-velizhenkov-4227abb9/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "ELEKS",
+      "position": "Software Developer",
+      "website": "https://eleks.com/",
+      "startDate": "2016-06-23",
+      "endDate": "2018-06-23",
+      "summary": "ELEKS' team of 1,100+ professionals located in the delivery centers across Eastern Europe and sales offices in Europe, the US and Japan, provides our clients with a full range of software engineering and consultancy services. ",
+      "highlights": [
+        "Developed .NET service for probabation period",
+        "Developing & maintaining mobile application written in C++",
+        "Developing & maintaining iOS application"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "AIESEC",
+      "position": "Team Leader",
+      "website": "https://aiesec.org/",
+      "startDate": "2015-04-01",
+      "endDate": "2016-02-01",
+      "summary": "Activate your leadership by going on an experience with AIESEC.",
+      "highlights": [
+        "Managed a team of 4 people",
+        "Succesfully organized an educational project for children and hired 3 interns from China and Turkey"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Ivano-Frankivsk National Technical University of Oil and Gas",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2014-09-01",
+      "endDate": "2018-09-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "iOS Developer",
+      "level": "Intermediate",
+      "keywords": [
+        "Swift",
+        "Objective-C",
+        "iOS SDK",
+        "UIKit",
+        "Design"
+      ]
+    },
+    {
+      "name": ".NET",
+      "level": "Junior",
+      "keywords": [
+        ".NET Core",
+        "MVC",
+        "WebApi"
+      ]
+    },
+    {
+      "name": "C++ Developer",
+      "level": "Intermediate",
+      "keywords": [
+        "C++ 11",
+        "C"
+      ]
+    },
+    {
+      "name": "Python Developer",
+      "level": "Junior",
+      "keywords": [
+        "Python3",
+        "Flask",
+        "pip"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    },
+    {
+      "language": "Ukrainian",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "Russian",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "German",
+      "fluency": "Advanced"
+    },
+    {
+      "language": "Polish",
+      "fluency": "Beginner"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Magic The Gathering",
+      "keywords": [
+        "Card Game",
+        "Fantasy"
+      ]
+    },
+    {
+      "name": "Music",
+      "keywords": [
+        "Electric Guitar",
+        "Rock",
+        "Metal"
+      ]
+    }
+  ]
+}
