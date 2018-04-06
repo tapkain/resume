@@ -39,6 +39,11 @@
         "network": "Linkedin",
         "username": "",
         "url": "https://www.linkedin.com/in/eugene-velizhenkov-4227abb9/"
+      },
+      {
+        "network": "Github",
+        "username": "tapkain",
+        "url": "https://github.com/tapkain"
       }
     ]
   },
